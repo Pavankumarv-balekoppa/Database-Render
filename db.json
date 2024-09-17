@@ -7174,5 +7174,28 @@
       "details": "Kukke Subramanya (IAST: Kukke Subrahmaṇya) is a Hindu temple located in the village Subramanya, of Kadaba taluk (earlier in Sullia taluk) in Dakshina Kannada district, Karnataka, India. In this temple Kartikeya is worshipped as Subramanya, lord of all serpents. The epics relate that the divine serpent Vasuki and other serpents found refuge under Subramanya when threatened by the Garuda. The priests in the temple are Shivalli Madhwa Brahmins. The poojas and other daily rituals in the temple are performed as per Madhvacharya's Tantra Sara Sangraha.[2] The Kukke Subramanya Temple is located in the Western Ghats range of Karnataka. Overlooking the temple is the famous mountain of Kumara Parvatha, a popular hiking destination for trekkers from across South India. Kumara Parvatha forms a picture-perfect backdrop to the temple entrance and the Shesha Parvatha (a mountain shaped like a six-headed mythological serpent, adjacent to Kumara Parvatha) looks like a cobra with its open hood, as if protecting the temple shrine of Lord Subramanya. The temple is situated on the western slopes of the Ghats and is covered with dense evergreen forests.  The village of Subramanya lies in the Kadaba Taluk in Dakshina Kannada with a sanctity which very few places can boast of. The temple is situated in the heart of the village. It is about a 105 km from Mangalore and can be easily reached by train, buses or taxis. Subramanya used to be called as Kukke Pattana in the past. Mahimanipurana's chapter of the Sahyadrikhanda comprised in the Sanatkumara Samhita of Skanda Purana. This kshetra is situated on the banks of the river 'Dhara' which originates in the Kumara mountain and proceeds to the western sea. Subrahmanya Road railway station at Nettana on Mangaluru to Sakleshpura railway line is the nearest railway station.",
       "id": 13
     }
+  ],
+  "auth":[
+    {
+      "name": "Pavankumar v",
+      "email": "pavanrajdr221@gmail.com",
+      "password": "Pavan@123",
+      "gender":"male",
+      "id": 1
+    },
+    {
+      "name": "Pavan",
+      "email": "pavan.v@adcuratio.com",
+      "password": "Pavan@123",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "name": "Dhananjaya V",
+      "email": "dhanu@gmail.com",
+      "password": "Pavan@123",
+      "gender": "male",
+      "id": 3
+    }
   ]
 }
